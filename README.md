@@ -23,5 +23,5 @@ GitHub is a Git repository hosting service that provides a web-based graphical i
 
 ##Thank you!
 =======
->Last line
->>>>>>> 2723c1ff6e73e7a3c6c7365cf48b29b99f4a9825:README.md
+
+
