@@ -4,6 +4,7 @@
 
 Without version control, developers are tempted to keep multiple copies of code on their computer. This is dangerous because it's easy to change or delete a file in the wrong copy of code, potentially losing work. Version control systems solve this problem by managing all versions of the code, but presenting the team with a single version at a time.
 
+<<<<<<< HEAD:GitHub_Demo.md
 Git is a distributed version control system. This means that by using Git, a local clone of the project winds up as a complete version control repository.
 
 ##Who is Git for?
@@ -21,3 +22,6 @@ GitHub is a Git repository hosting service that provides a web-based graphical i
 >Java is to JavaScript as car is to carpet
 
 ##Thank you!
+=======
+>Last line
+>>>>>>> 2723c1ff6e73e7a3c6c7365cf48b29b99f4a9825:README.md
